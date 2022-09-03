@@ -26,6 +26,6 @@ def fizzBuzz(n):
         probar(i+1)
         
         
-numerito=int(input("ingrese numero"))
+numerito=int(input("ingrese numero entero"))
 
 fizzBuzz(numerito)
